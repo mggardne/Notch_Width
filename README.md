@@ -1,2 +1,2 @@
 # Notch_Width
-Matlab files for characterizing knee notch width.
+Matlab files for characterizing knee notch width and volume.
